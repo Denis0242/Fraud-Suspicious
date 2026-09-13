@@ -1,0 +1,751 @@
+customer_id,customer_type,home_country,account_tenure_months,expected_monthly_volume,baseline_risk
+CUST20000,Individual,Mexico,37,27306.42,Low
+CUST20001,Individual,Nigeria,70,12695.01,Low
+CUST20002,Individual,India,107,17730.74,Low
+CUST20003,Individual,United States,52,20964.87,Low
+CUST20004,Individual,United Arab Emirates,74,12399.16,Low
+CUST20005,Individual,United Kingdom,67,5695.71,Low
+CUST20006,Individual,India,29,46873.9,Low
+CUST20007,Individual,United States,5,6375.67,High
+CUST20008,Individual,United Arab Emirates,89,5613.42,Low
+CUST20009,Individual,Mexico,70,10961.38,High
+CUST20010,Individual,United States,112,8306.26,Moderate
+CUST20011,Individual,United Arab Emirates,21,24329.81,Low
+CUST20012,Individual,Mexico,54,42674.17,Moderate
+CUST20013,Business,Canada,109,52617.48,High
+CUST20014,Individual,India,42,7494.41,Moderate
+CUST20015,Individual,United Kingdom,36,26627.13,Low
+CUST20016,Individual,United States,75,8982.08,Moderate
+CUST20017,Business,Brazil,53,12153.87,Low
+CUST20018,Business,Canada,41,7172.41,Moderate
+CUST20019,Individual,Mexico,88,8200.38,Low
+CUST20020,Business,United Kingdom,1,19384.68,Low
+CUST20021,Individual,United Arab Emirates,111,6429.94,Low
+CUST20022,Individual,United Kingdom,114,6596.39,Moderate
+CUST20023,Individual,United States,41,6553.16,Low
+CUST20024,Individual,United Arab Emirates,53,47773.8,Moderate
+CUST20025,Individual,United States,46,10894.62,High
+CUST20026,Individual,United States,97,46329.28,Low
+CUST20027,Individual,United States,108,7526.61,Low
+CUST20028,Business,Canada,42,25176.73,Low
+CUST20029,Business,United States,21,5128.41,Low
+CUST20030,Business,India,116,16087.96,Moderate
+CUST20031,Individual,Mexico,68,4523.03,Low
+CUST20032,Individual,United States,94,3733.84,Moderate
+CUST20033,Individual,United States,38,5423.5,Moderate
+CUST20034,Individual,United States,77,9495.78,Moderate
+CUST20035,Individual,United States,52,2527.93,Low
+CUST20036,Individual,India,48,10565.13,High
+CUST20037,Individual,India,2,18521.34,Moderate
+CUST20038,Individual,United States,18,19272.73,Low
+CUST20039,Individual,United States,87,96442.61,Moderate
+CUST20040,Individual,Mexico,45,15000.28,Moderate
+CUST20041,Individual,United States,115,26004.31,Moderate
+CUST20042,Individual,United States,9,8230.21,Moderate
+CUST20043,Individual,Nigeria,70,9386.82,Low
+CUST20044,Individual,Turkey,105,10250.38,Moderate
+CUST20045,Individual,Nigeria,49,3749.28,Moderate
+CUST20046,Individual,United Arab Emirates,111,16243.68,Moderate
+CUST20047,Business,United States,96,16806.62,Moderate
+CUST20048,Individual,Brazil,108,5080.81,Moderate
+CUST20049,Individual,United States,73,11588.69,Moderate
+CUST20050,Individual,United States,60,23188.01,Low
+CUST20051,Individual,United States,51,4929.94,Moderate
+CUST20052,Individual,United States,16,2620.04,Low
+CUST20053,Individual,United States,16,11227.33,Low
+CUST20054,Individual,United States,115,6123.19,Low
+CUST20055,Individual,Brazil,93,23785.44,Low
+CUST20056,Business,United States,19,11462.78,Low
+CUST20057,Individual,United States,93,16958.04,Low
+CUST20058,Individual,United States,116,15621.08,Low
+CUST20059,Business,United States,26,21437.14,Low
+CUST20060,Business,Canada,34,4203.59,High
+CUST20061,Individual,Mexico,5,2645.51,Low
+CUST20062,Business,United States,79,10682.23,High
+CUST20063,Individual,Turkey,83,17499.04,High
+CUST20064,Individual,Mexico,101,18495.02,Moderate
+CUST20065,Individual,United States,25,21489.6,Moderate
+CUST20066,Business,India,58,3320.96,Low
+CUST20067,Individual,United States,90,15571.84,Low
+CUST20068,Individual,United States,90,11897.49,Moderate
+CUST20069,Individual,India,31,5280.83,Low
+CUST20070,Individual,United States,104,10441.37,High
+CUST20071,Business,India,33,7594.46,Low
+CUST20072,Individual,Turkey,97,13619.37,Low
+CUST20073,Individual,Mexico,33,9580.14,Moderate
+CUST20074,Business,United States,72,25666.02,Low
+CUST20075,Individual,United States,78,8920.17,Low
+CUST20076,Business,United States,48,4669.13,Moderate
+CUST20077,Individual,United States,85,16095.84,Low
+CUST20078,Business,United Arab Emirates,20,10603.76,Low
+CUST20079,Individual,Brazil,76,12063.24,Moderate
+CUST20080,Individual,India,101,3467.12,Low
+CUST20081,Individual,Turkey,79,16024.92,Moderate
+CUST20082,Individual,Brazil,43,19201.67,Low
+CUST20083,Individual,United States,53,3496.81,Low
+CUST20084,Individual,United States,1,4290.75,Low
+CUST20085,Individual,United States,46,19934.84,High
+CUST20086,Individual,United States,60,10917.3,High
+CUST20087,Business,Mexico,6,13701.93,Low
+CUST20088,Individual,Canada,105,37800.64,Low
+CUST20089,Individual,Brazil,61,36345.0,Moderate
+CUST20090,Individual,United States,67,4841.13,High
+CUST20091,Individual,India,63,142784.23,Moderate
+CUST20092,Individual,Brazil,85,13414.32,Moderate
+CUST20093,Business,Canada,8,32411.07,Low
+CUST20094,Individual,United States,12,30376.71,Low
+CUST20095,Individual,United States,64,14646.11,Moderate
+CUST20096,Business,United Kingdom,61,11465.77,Moderate
+CUST20097,Individual,United States,66,2870.57,Moderate
+CUST20098,Individual,United States,6,33844.56,Low
+CUST20099,Business,United States,85,22233.45,Low
+CUST20100,Individual,United States,36,15504.28,Moderate
+CUST20101,Individual,Turkey,28,7059.73,Low
+CUST20102,Individual,United Arab Emirates,104,5786.92,Low
+CUST20103,Individual,United Arab Emirates,70,15770.54,Low
+CUST20104,Individual,United States,1,2448.89,Moderate
+CUST20105,Individual,Brazil,63,15006.67,Moderate
+CUST20106,Individual,United Arab Emirates,62,16129.39,High
+CUST20107,Individual,United States,10,28810.14,Low
+CUST20108,Individual,United States,75,22230.36,Low
+CUST20109,Individual,United Arab Emirates,87,14837.79,Low
+CUST20110,Individual,United States,39,18410.61,High
+CUST20111,Individual,United States,119,25692.25,Low
+CUST20112,Individual,Turkey,64,28069.47,Moderate
+CUST20113,Individual,United States,46,14944.2,Moderate
+CUST20114,Individual,Nigeria,55,12826.57,Low
+CUST20115,Individual,United States,54,2778.44,Low
+CUST20116,Individual,United States,48,10073.42,Low
+CUST20117,Individual,United States,37,29935.52,Low
+CUST20118,Business,United States,94,12665.49,Moderate
+CUST20119,Individual,India,58,8718.21,Low
+CUST20120,Individual,United States,73,3312.79,Moderate
+CUST20121,Individual,United States,94,25825.28,Low
+CUST20122,Individual,Canada,69,24237.75,Low
+CUST20123,Individual,United States,28,14392.82,High
+CUST20124,Individual,United States,15,11442.52,Low
+CUST20125,Individual,United Arab Emirates,102,9534.48,Moderate
+CUST20126,Individual,United States,47,16630.45,Low
+CUST20127,Individual,Mexico,74,58887.96,High
+CUST20128,Individual,United States,86,31113.33,Low
+CUST20129,Individual,United States,76,21656.81,Low
+CUST20130,Individual,United States,49,27963.11,Low
+CUST20131,Individual,United Arab Emirates,33,7335.17,Low
+CUST20132,Individual,Turkey,111,30928.8,Low
+CUST20133,Individual,United States,106,9240.49,Low
+CUST20134,Business,United States,90,4935.51,Low
+CUST20135,Business,Nigeria,69,41384.69,Low
+CUST20136,Individual,Canada,20,23371.68,Low
+CUST20137,Individual,United States,34,15426.58,Low
+CUST20138,Individual,United States,68,12664.34,High
+CUST20139,Individual,United States,54,5468.23,Low
+CUST20140,Individual,United States,37,6601.13,Low
+CUST20141,Business,United States,48,14788.27,High
+CUST20142,Individual,United States,12,16645.03,High
+CUST20143,Individual,United States,57,2228.14,Low
+CUST20144,Individual,United States,110,6814.57,Low
+CUST20145,Business,United States,3,13272.42,Low
+CUST20146,Business,Canada,7,4488.98,Low
+CUST20147,Individual,India,15,8758.13,Low
+CUST20148,Business,Canada,96,12258.72,Low
+CUST20149,Individual,Nigeria,91,23095.63,Low
+CUST20150,Individual,United States,87,12222.89,Moderate
+CUST20151,Individual,Turkey,90,6048.74,Low
+CUST20152,Business,Canada,14,27357.84,Low
+CUST20153,Business,Mexico,105,29752.58,Moderate
+CUST20154,Individual,Canada,83,36577.66,Low
+CUST20155,Individual,Nigeria,74,13255.31,Moderate
+CUST20156,Individual,United States,43,19329.7,Moderate
+CUST20157,Individual,Canada,79,20067.43,Moderate
+CUST20158,Individual,United States,32,11358.33,Low
+CUST20159,Individual,India,36,4458.74,Low
+CUST20160,Business,Brazil,23,7728.17,Low
+CUST20161,Individual,Canada,27,16512.02,Low
+CUST20162,Individual,Nigeria,36,4554.14,Low
+CUST20163,Individual,Canada,25,2961.82,Moderate
+CUST20164,Individual,United States,85,10253.26,Low
+CUST20165,Individual,United States,49,6242.23,Moderate
+CUST20166,Individual,United States,111,10523.71,Low
+CUST20167,Individual,United Kingdom,98,8652.14,Low
+CUST20168,Individual,United Kingdom,44,13721.28,Moderate
+CUST20169,Business,United States,110,7949.81,Low
+CUST20170,Individual,Turkey,50,7105.62,Moderate
+CUST20171,Individual,Mexico,29,33625.15,Moderate
+CUST20172,Individual,United States,56,11098.2,Moderate
+CUST20173,Business,Turkey,59,39014.54,Low
+CUST20174,Business,United States,98,1380.08,Moderate
+CUST20175,Individual,United States,78,61046.77,Low
+CUST20176,Business,United States,31,8116.22,High
+CUST20177,Individual,United Kingdom,65,9934.6,Moderate
+CUST20178,Individual,United States,42,26351.42,Low
+CUST20179,Individual,Nigeria,26,8533.81,Low
+CUST20180,Business,Turkey,92,8493.91,Moderate
+CUST20181,Business,United States,5,4769.92,Moderate
+CUST20182,Individual,Nigeria,18,118079.31,Low
+CUST20183,Individual,Mexico,75,12244.11,Moderate
+CUST20184,Individual,United States,14,9256.67,Low
+CUST20185,Individual,United Arab Emirates,45,8242.4,Moderate
+CUST20186,Individual,United States,79,7557.08,Moderate
+CUST20187,Individual,United States,21,12659.71,Low
+CUST20188,Individual,United States,11,14641.7,High
+CUST20189,Individual,United States,27,19174.39,Low
+CUST20190,Individual,United States,34,16066.57,Low
+CUST20191,Individual,Canada,29,10280.6,Low
+CUST20192,Individual,United States,59,12835.44,High
+CUST20193,Business,United States,100,9169.47,High
+CUST20194,Individual,Turkey,13,11729.71,Low
+CUST20195,Individual,Canada,83,14574.81,Low
+CUST20196,Individual,United States,61,51120.92,Low
+CUST20197,Individual,United States,109,17479.72,Low
+CUST20198,Individual,United States,28,18635.88,Moderate
+CUST20199,Individual,United States,77,25233.25,Low
+CUST20200,Individual,United States,18,6398.75,Low
+CUST20201,Individual,United States,95,14404.37,Low
+CUST20202,Individual,United States,39,5567.11,Low
+CUST20203,Individual,United States,47,4137.14,Low
+CUST20204,Individual,United States,108,11298.91,Moderate
+CUST20205,Individual,Mexico,55,34509.26,Low
+CUST20206,Business,Mexico,96,8925.38,Low
+CUST20207,Individual,United Arab Emirates,77,27406.58,Low
+CUST20208,Individual,United States,114,5360.91,Moderate
+CUST20209,Individual,United Kingdom,114,26981.17,Low
+CUST20210,Individual,Canada,96,14459.15,High
+CUST20211,Individual,United States,73,8334.39,Moderate
+CUST20212,Individual,United States,97,8158.61,Low
+CUST20213,Individual,Mexico,36,12836.37,Moderate
+CUST20214,Individual,Turkey,100,28492.24,Low
+CUST20215,Individual,Turkey,102,19602.24,Low
+CUST20216,Individual,United Arab Emirates,16,3642.54,Low
+CUST20217,Individual,United States,106,4053.32,Low
+CUST20218,Individual,Nigeria,71,29010.39,Moderate
+CUST20219,Individual,Turkey,75,24836.84,Low
+CUST20220,Individual,India,109,45436.49,Moderate
+CUST20221,Individual,United States,26,10375.53,High
+CUST20222,Individual,United States,83,5827.88,Low
+CUST20223,Individual,Brazil,92,14454.54,Moderate
+CUST20224,Individual,Nigeria,16,9051.19,High
+CUST20225,Business,United States,109,5194.34,Moderate
+CUST20226,Individual,United States,103,13064.39,Moderate
+CUST20227,Individual,United States,34,14064.64,Low
+CUST20228,Individual,Mexico,13,10614.85,Moderate
+CUST20229,Individual,India,115,85627.06,Low
+CUST20230,Individual,United States,72,8305.82,High
+CUST20231,Individual,Canada,94,33926.67,Low
+CUST20232,Business,United Arab Emirates,21,17699.52,Low
+CUST20233,Individual,United States,99,9869.82,Low
+CUST20234,Individual,Mexico,84,11868.48,Low
+CUST20235,Business,United States,15,15517.45,Low
+CUST20236,Individual,United States,97,4378.27,Low
+CUST20237,Business,Canada,82,3820.85,Moderate
+CUST20238,Individual,United Arab Emirates,87,8781.22,Moderate
+CUST20239,Business,United States,7,17563.05,Low
+CUST20240,Individual,United States,23,4582.11,Low
+CUST20241,Individual,United States,21,34686.45,Moderate
+CUST20242,Individual,United States,69,3148.14,Low
+CUST20243,Business,United Kingdom,64,16900.31,Moderate
+CUST20244,Individual,United Kingdom,67,7046.58,Low
+CUST20245,Individual,United States,18,9602.07,Moderate
+CUST20246,Individual,Brazil,45,60113.14,Low
+CUST20247,Business,Nigeria,24,8760.78,Low
+CUST20248,Business,United States,56,6179.07,Low
+CUST20249,Individual,Canada,14,16679.16,Moderate
+CUST20250,Individual,United States,22,11751.5,Low
+CUST20251,Individual,United States,105,15753.5,Low
+CUST20252,Business,United States,22,4861.92,Low
+CUST20253,Business,United Kingdom,31,13961.1,High
+CUST20254,Business,United Arab Emirates,24,11244.84,Low
+CUST20255,Individual,Canada,99,12247.72,Low
+CUST20256,Individual,Nigeria,18,11986.77,Low
+CUST20257,Individual,United States,2,7488.55,Low
+CUST20258,Individual,United Arab Emirates,44,7879.19,Moderate
+CUST20259,Individual,Mexico,62,6019.35,Low
+CUST20260,Individual,United Kingdom,25,6863.43,Moderate
+CUST20261,Business,United States,79,7544.51,Low
+CUST20262,Individual,United Kingdom,46,8981.67,Low
+CUST20263,Individual,United States,112,11591.35,Low
+CUST20264,Individual,Turkey,70,8098.17,Low
+CUST20265,Individual,United States,103,2702.63,Low
+CUST20266,Individual,United Kingdom,119,20139.99,High
+CUST20267,Business,United States,39,22783.85,Moderate
+CUST20268,Individual,United States,93,8818.23,Moderate
+CUST20269,Business,Brazil,75,19947.04,Moderate
+CUST20270,Individual,Canada,76,20233.96,High
+CUST20271,Individual,Nigeria,84,25210.97,Low
+CUST20272,Individual,United States,68,4695.2,Low
+CUST20273,Individual,United States,100,55327.01,Low
+CUST20274,Individual,United States,37,31418.12,Low
+CUST20275,Individual,India,23,29246.06,Low
+CUST20276,Individual,Canada,57,6841.81,High
+CUST20277,Individual,United States,92,14606.99,Low
+CUST20278,Business,Mexico,3,30766.01,Low
+CUST20279,Individual,Canada,14,12208.62,Moderate
+CUST20280,Individual,Brazil,98,24212.52,Low
+CUST20281,Business,United States,66,12731.32,High
+CUST20282,Individual,Canada,61,5267.98,Low
+CUST20283,Individual,United Kingdom,28,1932.06,Low
+CUST20284,Individual,United States,29,7840.02,Low
+CUST20285,Business,United States,37,18821.76,Moderate
+CUST20286,Business,United States,119,23052.22,Low
+CUST20287,Individual,Nigeria,120,17157.87,Low
+CUST20288,Individual,United States,103,8527.65,Low
+CUST20289,Business,Canada,13,6605.52,Low
+CUST20290,Individual,India,27,33935.94,Moderate
+CUST20291,Business,Nigeria,70,6550.5,Low
+CUST20292,Individual,India,54,33201.36,High
+CUST20293,Individual,United States,111,23165.23,Low
+CUST20294,Individual,United Kingdom,53,22571.64,Low
+CUST20295,Individual,Brazil,23,9185.93,High
+CUST20296,Individual,United States,115,9536.71,Moderate
+CUST20297,Business,United States,14,14878.01,Low
+CUST20298,Individual,Canada,75,3289.06,Moderate
+CUST20299,Individual,Brazil,28,37440.73,Moderate
+CUST20300,Business,United States,48,10222.64,Low
+CUST20301,Individual,Canada,40,13911.76,Low
+CUST20302,Individual,United States,105,30924.17,Low
+CUST20303,Individual,Canada,2,17115.56,Low
+CUST20304,Business,United States,23,30786.76,Low
+CUST20305,Individual,Canada,84,8120.89,Moderate
+CUST20306,Individual,United States,41,17530.13,Low
+CUST20307,Individual,United States,91,3215.47,Low
+CUST20308,Individual,United States,100,4702.6,Low
+CUST20309,Business,United States,52,48293.05,Low
+CUST20310,Individual,United States,78,10066.87,Low
+CUST20311,Individual,United States,6,23843.51,Low
+CUST20312,Individual,Mexico,31,8827.61,Low
+CUST20313,Individual,United States,55,9138.6,Moderate
+CUST20314,Individual,Canada,47,4243.81,Low
+CUST20315,Business,Nigeria,97,19269.18,Moderate
+CUST20316,Individual,Turkey,91,127879.77,High
+CUST20317,Individual,India,109,11194.5,Low
+CUST20318,Individual,India,84,10550.08,Low
+CUST20319,Individual,United Kingdom,115,41622.05,High
+CUST20320,Individual,Canada,10,7774.6,Low
+CUST20321,Individual,United Kingdom,105,7179.12,Low
+CUST20322,Individual,Nigeria,18,17564.68,Low
+CUST20323,Business,United States,64,11991.91,Moderate
+CUST20324,Individual,United States,104,21850.96,Moderate
+CUST20325,Business,United States,67,11878.04,Low
+CUST20326,Business,United Arab Emirates,10,2472.93,Low
+CUST20327,Individual,United States,45,7087.17,Low
+CUST20328,Individual,United States,7,6639.76,Moderate
+CUST20329,Individual,United States,70,4355.05,Moderate
+CUST20330,Individual,United States,76,4868.32,Low
+CUST20331,Business,United States,8,13183.58,Low
+CUST20332,Individual,United States,120,6618.7,Low
+CUST20333,Individual,United States,13,17007.7,Moderate
+CUST20334,Individual,United States,29,11530.26,Moderate
+CUST20335,Individual,United States,99,16974.75,Low
+CUST20336,Business,United States,29,7296.1,Low
+CUST20337,Individual,United Arab Emirates,63,2090.32,High
+CUST20338,Individual,United States,108,4948.69,Moderate
+CUST20339,Individual,United States,109,2269.42,High
+CUST20340,Individual,Nigeria,23,7195.14,Low
+CUST20341,Individual,Canada,52,5713.19,Low
+CUST20342,Individual,Canada,56,8509.74,Low
+CUST20343,Individual,Turkey,27,5106.84,Low
+CUST20344,Individual,Nigeria,3,9282.04,Low
+CUST20345,Individual,Mexico,53,21069.16,Low
+CUST20346,Individual,United States,3,7473.28,Moderate
+CUST20347,Business,United States,69,14691.4,Moderate
+CUST20348,Individual,United States,69,6710.12,Low
+CUST20349,Business,Canada,17,5874.62,Moderate
+CUST20350,Individual,United States,86,20878.34,Low
+CUST20351,Individual,United States,27,50426.91,Moderate
+CUST20352,Business,United States,51,7238.91,Moderate
+CUST20353,Individual,United States,100,7333.92,Moderate
+CUST20354,Individual,United States,7,28434.92,Low
+CUST20355,Individual,United Kingdom,32,3402.23,Low
+CUST20356,Individual,United States,8,52165.25,Low
+CUST20357,Individual,United States,26,15027.1,Low
+CUST20358,Individual,United States,49,25381.94,Low
+CUST20359,Individual,Nigeria,20,35860.97,Moderate
+CUST20360,Individual,United Arab Emirates,6,7966.93,High
+CUST20361,Business,Brazil,102,10368.36,Low
+CUST20362,Individual,Mexico,41,10407.0,Low
+CUST20363,Business,United States,101,10308.49,Moderate
+CUST20364,Individual,United States,93,14695.62,Moderate
+CUST20365,Individual,United States,80,14192.15,Low
+CUST20366,Business,United States,57,48653.48,Low
+CUST20367,Individual,United States,70,10379.68,Low
+CUST20368,Business,United States,9,49498.36,Low
+CUST20369,Individual,Turkey,90,6578.8,Low
+CUST20370,Individual,Nigeria,118,7216.8,Moderate
+CUST20371,Individual,United States,118,2829.93,Moderate
+CUST20372,Individual,Brazil,84,11816.02,Moderate
+CUST20373,Individual,United States,12,35240.8,High
+CUST20374,Individual,India,29,19328.75,High
+CUST20375,Individual,United States,24,7385.6,Moderate
+CUST20376,Business,United States,25,23078.85,Low
+CUST20377,Individual,United Kingdom,9,24228.97,Low
+CUST20378,Individual,Canada,12,12615.34,Low
+CUST20379,Individual,Brazil,66,11206.09,Low
+CUST20380,Individual,United States,2,21758.67,Low
+CUST20381,Individual,United States,95,27334.59,Moderate
+CUST20382,Individual,United States,105,7799.49,Low
+CUST20383,Business,India,54,4820.53,Low
+CUST20384,Individual,United States,19,5505.78,Low
+CUST20385,Individual,Mexico,50,1411.81,Moderate
+CUST20386,Individual,United States,68,24082.24,Moderate
+CUST20387,Individual,United States,26,35398.04,High
+CUST20388,Business,United States,25,16115.94,High
+CUST20389,Business,United States,99,25961.01,Moderate
+CUST20390,Business,United States,48,4384.15,Low
+CUST20391,Individual,United States,47,36409.3,Low
+CUST20392,Individual,United Kingdom,51,13941.07,Low
+CUST20393,Individual,United States,97,3764.97,Low
+CUST20394,Individual,United States,49,10210.08,Low
+CUST20395,Individual,United States,105,23790.07,High
+CUST20396,Individual,Canada,99,11681.9,High
+CUST20397,Individual,United States,81,4469.86,Low
+CUST20398,Individual,United States,24,9207.3,Low
+CUST20399,Individual,United States,66,5484.3,Low
+CUST20400,Individual,United States,4,8198.8,Low
+CUST20401,Individual,United Kingdom,79,10361.56,Moderate
+CUST20402,Individual,Canada,31,6065.78,Low
+CUST20403,Business,Nigeria,74,18094.0,High
+CUST20404,Individual,United States,17,83404.73,Low
+CUST20405,Individual,United States,5,7903.07,Moderate
+CUST20406,Business,United States,28,6695.75,Moderate
+CUST20407,Individual,United Kingdom,80,22908.08,Moderate
+CUST20408,Individual,United States,86,11255.49,Low
+CUST20409,Individual,United States,17,8658.96,Moderate
+CUST20410,Individual,United States,44,6693.62,Low
+CUST20411,Individual,Nigeria,79,7919.32,Moderate
+CUST20412,Individual,United Arab Emirates,62,9746.84,Low
+CUST20413,Individual,Mexico,35,15290.67,Low
+CUST20414,Individual,United States,48,17213.2,Moderate
+CUST20415,Individual,Turkey,101,40583.95,Moderate
+CUST20416,Individual,Mexico,105,5637.47,Moderate
+CUST20417,Individual,United Arab Emirates,9,9698.3,Moderate
+CUST20418,Individual,United Arab Emirates,36,14362.66,Low
+CUST20419,Individual,United States,117,8089.82,Moderate
+CUST20420,Individual,United Arab Emirates,110,21980.53,Low
+CUST20421,Individual,Nigeria,57,19634.57,Low
+CUST20422,Individual,United States,25,12982.43,Moderate
+CUST20423,Individual,United States,37,10120.83,Low
+CUST20424,Individual,United Arab Emirates,115,36075.61,Moderate
+CUST20425,Individual,Turkey,98,18583.53,Moderate
+CUST20426,Individual,United Arab Emirates,27,17320.03,High
+CUST20427,Individual,United States,59,5438.18,Low
+CUST20428,Individual,United States,10,13749.2,Low
+CUST20429,Business,United States,33,14482.39,Low
+CUST20430,Individual,United States,57,7160.51,High
+CUST20431,Business,United States,105,3150.11,Low
+CUST20432,Individual,United States,115,22515.61,High
+CUST20433,Individual,United States,71,41716.47,Low
+CUST20434,Business,United States,97,10173.75,Moderate
+CUST20435,Business,United States,2,9656.07,Low
+CUST20436,Individual,United States,100,6349.16,Low
+CUST20437,Individual,United States,119,10828.07,Low
+CUST20438,Individual,United Kingdom,29,46511.54,Moderate
+CUST20439,Individual,United States,4,8380.19,High
+CUST20440,Individual,Canada,4,2904.57,Low
+CUST20441,Individual,United States,14,9977.57,Moderate
+CUST20442,Individual,Turkey,31,24536.19,Low
+CUST20443,Individual,United States,68,8813.48,Moderate
+CUST20444,Individual,Canada,98,10647.92,Low
+CUST20445,Individual,United Kingdom,66,3968.02,Low
+CUST20446,Business,United States,104,53266.77,Moderate
+CUST20447,Individual,Turkey,102,4240.13,Low
+CUST20448,Individual,India,16,13176.76,Moderate
+CUST20449,Individual,United States,75,13386.86,Low
+CUST20450,Individual,Mexico,84,16381.02,Low
+CUST20451,Individual,United Arab Emirates,97,27268.68,Low
+CUST20452,Individual,India,53,15637.1,Moderate
+CUST20453,Business,United States,80,7689.51,Low
+CUST20454,Individual,United States,34,7887.33,High
+CUST20455,Business,United Arab Emirates,5,13079.31,Low
+CUST20456,Individual,United States,11,3377.04,High
+CUST20457,Business,United States,27,9097.66,Low
+CUST20458,Individual,United States,118,7667.71,Low
+CUST20459,Individual,United Arab Emirates,102,7086.3,Low
+CUST20460,Business,United States,66,8773.27,High
+CUST20461,Individual,United States,80,12469.71,Low
+CUST20462,Individual,United States,34,15891.73,Low
+CUST20463,Individual,Brazil,27,14422.32,Low
+CUST20464,Individual,United States,18,16315.45,Low
+CUST20465,Individual,United Arab Emirates,83,24612.67,Moderate
+CUST20466,Individual,United States,24,16963.71,Low
+CUST20467,Individual,United States,27,20415.62,High
+CUST20468,Individual,Nigeria,73,8475.14,Moderate
+CUST20469,Business,Mexico,58,19639.0,High
+CUST20470,Business,United States,51,14398.31,Low
+CUST20471,Individual,United States,99,23813.25,Low
+CUST20472,Business,United States,52,5303.84,Low
+CUST20473,Individual,United Kingdom,3,21534.81,High
+CUST20474,Individual,United Arab Emirates,101,7210.94,High
+CUST20475,Individual,Nigeria,36,11138.19,Low
+CUST20476,Individual,Mexico,119,94527.38,Moderate
+CUST20477,Individual,United States,118,35171.96,Moderate
+CUST20478,Business,United States,44,7029.23,Low
+CUST20479,Individual,United States,94,7573.15,Low
+CUST20480,Individual,United Arab Emirates,43,18804.17,Low
+CUST20481,Business,United States,59,5379.75,Low
+CUST20482,Individual,Mexico,65,13387.67,Moderate
+CUST20483,Business,United States,28,24554.58,Low
+CUST20484,Individual,United Arab Emirates,17,15848.53,Low
+CUST20485,Individual,United States,1,41341.44,Low
+CUST20486,Individual,Canada,44,41301.54,High
+CUST20487,Business,United States,103,14846.07,Moderate
+CUST20488,Individual,United Kingdom,63,7261.19,Low
+CUST20489,Individual,United Arab Emirates,27,24678.9,High
+CUST20490,Individual,United States,18,5845.9,Moderate
+CUST20491,Business,United States,61,4653.19,Moderate
+CUST20492,Individual,United States,83,88883.23,Low
+CUST20493,Individual,Brazil,72,18683.44,Low
+CUST20494,Individual,United States,115,23758.58,Low
+CUST20495,Individual,United Arab Emirates,2,32961.55,Low
+CUST20496,Individual,United States,24,7985.24,Moderate
+CUST20497,Individual,United Kingdom,76,23557.24,Low
+CUST20498,Individual,United Kingdom,86,7775.83,Moderate
+CUST20499,Individual,United Kingdom,40,28496.22,Low
+CUST20500,Business,United Arab Emirates,49,20571.04,Low
+CUST20501,Individual,United States,23,11424.22,Moderate
+CUST20502,Individual,Turkey,36,7026.74,Low
+CUST20503,Business,United States,75,5872.71,Low
+CUST20504,Individual,United States,5,17089.45,Low
+CUST20505,Individual,United States,45,10741.51,Low
+CUST20506,Individual,United States,104,16019.22,Low
+CUST20507,Business,United States,19,8562.22,Moderate
+CUST20508,Individual,United States,23,18282.96,Moderate
+CUST20509,Individual,United Kingdom,111,8271.28,Moderate
+CUST20510,Individual,Nigeria,120,5548.47,Low
+CUST20511,Business,Mexico,30,7000.23,Low
+CUST20512,Individual,United States,98,8968.85,Low
+CUST20513,Individual,Canada,44,9040.47,Moderate
+CUST20514,Business,United States,81,5666.83,Low
+CUST20515,Individual,Nigeria,34,24077.96,Low
+CUST20516,Individual,United States,118,32348.48,Low
+CUST20517,Individual,United States,7,9070.89,High
+CUST20518,Individual,Brazil,52,7465.64,High
+CUST20519,Individual,Canada,71,5930.07,High
+CUST20520,Business,United States,82,5950.91,Moderate
+CUST20521,Individual,United States,48,76177.24,Low
+CUST20522,Individual,United States,79,113833.78,High
+CUST20523,Individual,United States,41,22210.01,Moderate
+CUST20524,Business,United States,69,19920.51,Low
+CUST20525,Business,United States,114,30068.16,High
+CUST20526,Business,Brazil,86,28911.89,Low
+CUST20527,Individual,United States,44,3870.33,Moderate
+CUST20528,Individual,United States,57,3192.02,Moderate
+CUST20529,Business,United States,23,51400.76,Low
+CUST20530,Individual,India,113,27454.91,Low
+CUST20531,Individual,United States,104,15220.57,Low
+CUST20532,Individual,Turkey,117,24224.65,Moderate
+CUST20533,Individual,Nigeria,107,12939.46,Low
+CUST20534,Individual,United States,68,45031.11,Low
+CUST20535,Individual,United Kingdom,80,40064.13,Low
+CUST20536,Individual,United States,33,28673.95,Moderate
+CUST20537,Individual,India,31,7637.27,Low
+CUST20538,Individual,Nigeria,41,15732.41,Moderate
+CUST20539,Individual,Canada,6,1823.85,High
+CUST20540,Individual,Canada,92,2987.29,Low
+CUST20541,Individual,United States,29,11868.17,High
+CUST20542,Individual,Canada,77,16911.19,Low
+CUST20543,Business,United States,59,31206.97,Low
+CUST20544,Business,India,55,8793.45,Low
+CUST20545,Individual,Mexico,59,6907.7,Low
+CUST20546,Business,United States,115,17307.61,Moderate
+CUST20547,Individual,United States,93,2089.02,Low
+CUST20548,Business,Canada,89,80512.42,Low
+CUST20549,Business,India,25,2796.34,Low
+CUST20550,Individual,United States,57,30962.25,Low
+CUST20551,Individual,United States,104,9241.68,Moderate
+CUST20552,Business,United States,43,12040.45,Low
+CUST20553,Individual,United States,115,8911.6,High
+CUST20554,Business,India,67,18859.58,Low
+CUST20555,Individual,Nigeria,106,12349.27,Low
+CUST20556,Individual,United States,116,3138.84,Low
+CUST20557,Individual,United Kingdom,72,5770.29,Moderate
+CUST20558,Individual,United States,4,11708.23,Moderate
+CUST20559,Individual,United States,37,13715.09,Low
+CUST20560,Individual,United States,81,25888.31,Low
+CUST20561,Individual,United States,105,2273.7,Low
+CUST20562,Individual,United States,17,18863.86,Low
+CUST20563,Business,United States,41,15541.87,Low
+CUST20564,Individual,United States,11,32095.76,Low
+CUST20565,Individual,India,15,20525.07,Low
+CUST20566,Individual,United States,6,17242.1,Low
+CUST20567,Individual,United States,12,9187.45,Low
+CUST20568,Business,United States,82,13946.97,Moderate
+CUST20569,Individual,United States,12,9599.98,Low
+CUST20570,Individual,Mexico,5,5567.92,Moderate
+CUST20571,Individual,United States,84,8956.32,Low
+CUST20572,Individual,United States,87,8889.42,Low
+CUST20573,Individual,United States,88,3020.41,Low
+CUST20574,Business,Canada,12,7172.2,Moderate
+CUST20575,Individual,United States,98,6110.54,Moderate
+CUST20576,Individual,United States,35,12107.23,High
+CUST20577,Individual,Turkey,82,21567.61,High
+CUST20578,Business,United States,32,6676.54,Low
+CUST20579,Individual,United States,104,10012.99,Low
+CUST20580,Individual,United Kingdom,102,6416.11,High
+CUST20581,Individual,United States,13,9430.4,Moderate
+CUST20582,Individual,India,81,5143.86,Low
+CUST20583,Business,Brazil,86,11297.1,Low
+CUST20584,Individual,Nigeria,64,10937.47,Low
+CUST20585,Business,Canada,36,7168.83,Low
+CUST20586,Individual,Canada,69,18580.52,Moderate
+CUST20587,Individual,United States,60,8942.02,Low
+CUST20588,Individual,United States,85,10920.76,Low
+CUST20589,Individual,Mexico,53,7754.34,Moderate
+CUST20590,Individual,United States,84,9709.43,Low
+CUST20591,Individual,India,21,29034.05,Low
+CUST20592,Individual,United States,59,18139.72,Moderate
+CUST20593,Individual,Nigeria,77,8993.08,Low
+CUST20594,Business,United States,55,10025.62,Low
+CUST20595,Individual,United States,2,3352.79,Low
+CUST20596,Individual,United States,15,23680.17,Low
+CUST20597,Individual,United States,19,35306.17,High
+CUST20598,Individual,United Arab Emirates,37,4449.34,High
+CUST20599,Individual,United States,6,33611.6,Moderate
+CUST20600,Business,Turkey,48,52956.34,Low
+CUST20601,Individual,India,8,33863.14,Low
+CUST20602,Individual,United States,86,22635.43,Low
+CUST20603,Individual,United Kingdom,105,30866.63,Low
+CUST20604,Individual,United States,114,21238.63,Low
+CUST20605,Individual,United States,39,12066.0,Moderate
+CUST20606,Individual,United States,63,21613.39,Moderate
+CUST20607,Individual,United States,70,4019.57,Moderate
+CUST20608,Individual,United States,77,6561.92,Low
+CUST20609,Business,Canada,92,25072.43,High
+CUST20610,Individual,United States,42,7382.01,Moderate
+CUST20611,Business,Mexico,44,2849.25,Low
+CUST20612,Business,United States,11,8950.11,Low
+CUST20613,Individual,United States,35,17465.81,Low
+CUST20614,Individual,Brazil,66,29269.12,High
+CUST20615,Business,United States,59,53089.14,Low
+CUST20616,Business,United States,77,13875.11,Low
+CUST20617,Individual,United Kingdom,76,11509.01,Low
+CUST20618,Individual,Canada,90,30128.58,Moderate
+CUST20619,Business,Nigeria,1,3299.98,Moderate
+CUST20620,Individual,United States,37,2552.49,Low
+CUST20621,Individual,United States,8,19536.12,Moderate
+CUST20622,Individual,India,98,6996.86,High
+CUST20623,Individual,United States,63,37752.18,Low
+CUST20624,Individual,Mexico,110,16068.35,Low
+CUST20625,Individual,United Kingdom,7,26441.51,High
+CUST20626,Individual,Mexico,119,43715.7,Low
+CUST20627,Individual,United States,48,5282.36,High
+CUST20628,Individual,Canada,18,23353.62,High
+CUST20629,Business,United States,67,10604.26,Moderate
+CUST20630,Individual,India,53,18199.72,Low
+CUST20631,Business,Nigeria,115,4719.53,Low
+CUST20632,Individual,United States,94,16662.19,Moderate
+CUST20633,Individual,United Arab Emirates,44,21304.78,Low
+CUST20634,Individual,United States,28,33972.44,Low
+CUST20635,Individual,United States,114,30140.55,High
+CUST20636,Individual,United Kingdom,10,7175.28,Low
+CUST20637,Individual,United Kingdom,41,34850.14,Low
+CUST20638,Individual,United States,58,9119.22,Low
+CUST20639,Individual,United States,66,16239.51,Moderate
+CUST20640,Individual,United States,88,16080.8,Low
+CUST20641,Individual,United Kingdom,26,17051.92,Low
+CUST20642,Individual,United States,41,18643.26,Low
+CUST20643,Business,United States,114,10228.88,Low
+CUST20644,Individual,United States,88,46897.05,Low
+CUST20645,Individual,United States,6,35834.75,Moderate
+CUST20646,Business,Mexico,78,24317.48,Low
+CUST20647,Individual,United States,67,39449.93,Low
+CUST20648,Individual,United Kingdom,3,4886.07,High
+CUST20649,Individual,Brazil,101,28617.1,Low
+CUST20650,Individual,United States,106,9021.1,Low
+CUST20651,Business,United States,42,4935.08,Low
+CUST20652,Individual,Canada,42,39533.34,Low
+CUST20653,Business,United States,52,9747.82,Moderate
+CUST20654,Business,United States,1,6453.71,Low
+CUST20655,Individual,Nigeria,93,9622.97,Low
+CUST20656,Individual,India,15,6743.36,Low
+CUST20657,Individual,United States,27,33940.53,Low
+CUST20658,Individual,United States,68,2275.22,Low
+CUST20659,Business,United States,39,122017.84,Moderate
+CUST20660,Individual,United States,47,14460.01,High
+CUST20661,Individual,Mexico,85,41110.22,High
+CUST20662,Business,Canada,108,87572.25,Moderate
+CUST20663,Individual,Mexico,59,4111.43,Low
+CUST20664,Individual,United States,34,21204.05,Low
+CUST20665,Business,United States,15,28101.45,Low
+CUST20666,Individual,United States,33,25452.82,Low
+CUST20667,Business,United States,3,4070.88,Low
+CUST20668,Individual,United States,65,5288.51,Moderate
+CUST20669,Individual,Brazil,26,40072.96,Low
+CUST20670,Individual,United States,79,15442.85,Moderate
+CUST20671,Individual,Brazil,25,11991.62,Low
+CUST20672,Individual,United States,120,12756.3,Low
+CUST20673,Individual,United States,46,17033.61,High
+CUST20674,Individual,United States,70,4158.13,High
+CUST20675,Business,United States,81,8944.92,Moderate
+CUST20676,Individual,United States,4,11491.5,Moderate
+CUST20677,Business,United States,87,4108.09,Low
+CUST20678,Individual,United States,21,14632.82,Low
+CUST20679,Individual,India,13,26913.85,Low
+CUST20680,Individual,United States,44,14693.29,Low
+CUST20681,Individual,United Kingdom,5,13693.02,Low
+CUST20682,Business,United Kingdom,106,36113.06,Low
+CUST20683,Individual,United States,14,38887.5,Low
+CUST20684,Individual,United Kingdom,1,18126.4,Low
+CUST20685,Individual,United States,4,18977.44,Moderate
+CUST20686,Individual,United States,56,18508.61,Low
+CUST20687,Individual,Canada,45,14039.73,Low
+CUST20688,Business,United States,54,25561.35,Low
+CUST20689,Business,United Arab Emirates,118,15119.06,Moderate
+CUST20690,Individual,United States,88,41450.27,Low
+CUST20691,Individual,United States,38,8478.2,Low
+CUST20692,Individual,Brazil,28,24062.19,Moderate
+CUST20693,Business,United Arab Emirates,2,15546.41,Low
+CUST20694,Individual,Mexico,69,14054.86,Moderate
+CUST20695,Individual,United States,90,22435.69,Low
+CUST20696,Individual,United Kingdom,68,4947.46,High
+CUST20697,Individual,Canada,39,37525.56,Low
+CUST20698,Individual,United States,104,9643.76,Low
+CUST20699,Individual,Mexico,3,8896.52,Low
+CUST20700,Individual,United States,71,7172.07,Low
+CUST20701,Individual,Canada,118,1715.92,Low
+CUST20702,Individual,United States,25,17851.19,Low
+CUST20703,Individual,United Kingdom,5,13639.74,Low
+CUST20704,Business,United States,12,8353.17,Low
+CUST20705,Individual,India,47,3814.49,Moderate
+CUST20706,Individual,United States,79,7922.71,Low
+CUST20707,Individual,United Kingdom,104,11965.56,Low
+CUST20708,Individual,United States,32,21004.15,Moderate
+CUST20709,Individual,Mexico,89,27752.53,Low
+CUST20710,Individual,United States,24,12627.03,Moderate
+CUST20711,Individual,Turkey,1,17583.3,High
+CUST20712,Individual,United States,31,48979.73,High
+CUST20713,Individual,United States,15,18043.08,Low
+CUST20714,Business,United States,101,11745.07,Moderate
+CUST20715,Individual,Nigeria,54,6906.04,Low
+CUST20716,Individual,United Kingdom,2,22097.43,Low
+CUST20717,Individual,Nigeria,87,15825.77,Moderate
+CUST20718,Individual,United States,50,5771.23,Low
+CUST20719,Business,India,18,4792.58,Moderate
+CUST20720,Individual,Nigeria,73,15907.6,Low
+CUST20721,Individual,United States,11,9481.98,Moderate
+CUST20722,Individual,United States,12,8556.04,Low
+CUST20723,Individual,Mexico,32,11740.55,Low
+CUST20724,Individual,India,91,16265.1,Moderate
+CUST20725,Individual,United States,37,7153.25,Low
+CUST20726,Business,United Arab Emirates,77,11791.83,Low
+CUST20727,Individual,Nigeria,3,25277.52,High
+CUST20728,Individual,United States,88,11169.4,Low
+CUST20729,Individual,United States,86,11292.77,High
+CUST20730,Individual,Brazil,81,7463.7,Moderate
+CUST20731,Individual,United States,3,5387.24,Moderate
+CUST20732,Individual,United States,11,7087.79,Moderate
+CUST20733,Business,United States,109,12580.9,Moderate
+CUST20734,Individual,United Kingdom,63,13214.07,Low
+CUST20735,Business,Canada,82,7235.53,Low
+CUST20736,Individual,United States,79,2161.87,High
+CUST20737,Individual,United States,83,12442.11,Low
+CUST20738,Individual,Brazil,73,35254.83,Low
+CUST20739,Individual,United States,30,16085.63,Low
+CUST20740,Individual,United States,67,15401.15,Low
+CUST20741,Individual,United States,73,10795.76,Low
+CUST20742,Business,India,60,16512.13,Low
+CUST20743,Individual,Nigeria,42,24174.19,Moderate
+CUST20744,Individual,United Kingdom,107,19427.42,High
+CUST20745,Individual,United States,93,11036.49,Low
+CUST20746,Business,India,18,19243.94,Low
+CUST20747,Individual,Brazil,51,8258.78,High
+CUST20748,Individual,United States,10,20942.6,Low
+CUST20749,Individual,United States,85,23696.57,High
