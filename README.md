@@ -63,14 +63,5 @@ pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
 
-## Resume bullets
-**Fraud & Suspicious Transaction Pattern Detection | SQL, Python, Tableau, Streamlit**
-
-- Built an end-to-end fraud analytics solution across 28,000 synthetic transactions, engineering behavioral risk indicators to identify unusual amounts, velocity spikes, geographic anomalies, rapid fund movement, account-takeover signals, and repeated-counterparty activity.
-- Developed explainable transaction and customer fraud-risk scoring, SQL detection queries, Tableau executive reporting, and a Streamlit investigation workbench for alert prioritization, behavioral analysis, customer review, and disposition monitoring.
-
-## Interview explanation
-“I built a fraud and suspicious-transaction analytics project that detects behavioral anomalies across transaction amount, velocity, geography, channel, device and counterparty activity. I used SQL for detection and investigation queries, Python for feature engineering and explainable risk scoring, Tableau for portfolio monitoring, and Streamlit for an investigator-style alert and customer review workflow.”
-
 ## Disclaimer
 Synthetic educational portfolio project only.
