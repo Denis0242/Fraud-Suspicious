@@ -386,22 +386,12 @@ with tabs[3]:
 with tabs[4]:
     st.subheader("Tableau Analytics Gallery")
     st.caption(
-        "Static Tableau views for quick recruiter and hiring-manager review."
+        "Final Executive Dashboard synchronized with the current processed datasets and verified KPI results."
     )
 
     images = [
-        ("02_executive_dashboard.png", "Reference-Style Fraud Executive Dashboard"),
-        ("10_alerts_over_time.png", "Fraud Alerts Over Time"),
-        ("11_fraud_patterns_donut.png", "Fraud Patterns"),
-        ("12_top_countries.png", "Top 5 Countries"),
-        ("13_risk_distribution.png", "Risk Distribution"),
-        ("14_top_customers.png", "Top 5 Flagged Customers"),
-        ("15_disposition.png", "Alert Disposition"),
-        ("16_heatmap.png", "Fraud Activity Heatmap"),
-        ("17_scatter.png", "Amount vs Fraud Risk"),
-        ("18_confirmed_trend.png", "Confirmed Fraud Trend"),
+        ("02_executive_dashboard.png", "Fraud & Suspicious Transaction Pattern Detection — Final Executive Dashboard"),
     ]
-
     for filename, caption in images:
         img = ROOT / "images" / filename
         if img.exists():
