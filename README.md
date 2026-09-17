@@ -1,6 +1,6 @@
 # Fraud & Suspicious Transaction Pattern Detection
 
-**Fraud & Financial Crime Analytics Portfolio Project**
+### Fraud & Financial Crime Analytics Portfolio Project
 
 An end-to-end fraud analytics project using **Python, SQL, Tableau, and
 Streamlit** to identify suspicious transaction patterns, prioritize
@@ -51,27 +51,21 @@ The project addresses questions such as:
 
 ------------------------------------------------------------------------
 
-## Dataset
+## Dataset Overview
 
-  -----------------------------------------------------------------------------------
-  Dataset                                               Rows Purpose
-  ----------------------------- ---------------------------- ------------------------
-  Customer reference                                     750 Customer profile and
-                                                             baseline risk
+The project uses five interconnected datasets supporting transaction-level fraud detection, feature engineering, alert investigation, and customer-level risk analysis.
 
-  Raw transactions                                    28,000 Transaction-level fraud
-                                                             analysis
+| Dataset | Rows | Purpose |
+|---|---:|---|
+| **Customer Reference** | **750** | Customer profiles and baseline fraud-risk attributes |
+| **Raw Transactions** | **28,000** | Transaction-level activity used for fraud and suspicious-pattern analysis |
+| `transactions_enriched.csv` | **28,000** | Feature-engineered transaction layer with derived fraud-risk indicators |
+| `fraud_alerts.csv` | **1,628** | Fraud and suspicious-transaction alerts used for investigation and disposition analysis |
+| `customer_fraud_risk.csv` | **750** | Customer-level fraud-risk analytics and prioritization layer |
 
-  `transactions_enriched.csv`                         28,000 Feature-engineered
-                                                             transaction layer
+> **Data flow:** Customer & Transaction Data → Feature Engineering → Fraud Detection → Alert Investigation → Customer Risk Prioritization
 
-  `fraud_alerts.csv`                                   1,628 Fraud and
-                                                             suspicious-transaction
-                                                             alert review
-
-  `customer_fraud_risk.csv`                              750 Customer-level
-                                                             fraud-risk analytics
-  -----------------------------------------------------------------------------------
+---
 
 See [`docs/data_dictionary.md`](docs/data_dictionary.md) for detailed
 field definitions and relationships.
@@ -161,21 +155,22 @@ See [`sql/`](sql/) for the full SQL analysis.
 
 ## Verified Current KPIs
 
-The following results were recalculated from the current uploaded
-processed datasets:
+The following KPIs were recalculated from the current processed datasets to validate transaction activity, fraud-alert volume, customer exposure, and confirmed fraud outcomes.
 
-  KPI                                    Current Result
-  -------------------------------- --------------------
-  Total Transactions                         **28,000**
-  Fraud Alerts                                **1,628**
-  Affected Customers                            **595**
-  Confirmed Fraud Alerts                        **205**
-  Confirmed Fraud Rate                        **12.6%**
-  High/Critical Alerts               **1,628 (100.0%)**
-  Total Flagged Alert Amount                **\$19.5M**
-  Average Alert Fraud Risk Score               **72.9**
+| KPI | Current Result |
+|---|---:|
+| Total Transactions | **28,000** |
+| Fraud Alerts | **1,628** |
+| Affected Customers | **595** |
+| Confirmed Fraud Alerts | **205** |
+| Confirmed Fraud Rate | **12.6%** |
+| High / Critical Alerts | **1,628 (100.0%)** |
+| Total Flagged Alert Amount | **$19.5M** |
+| Average Alert Fraud Risk Score | **72.9** |
 
-------------------------------------------------------------------------
+> **Portfolio insight:** The analysis identified 1,628 high/critical alerts affecting 595 customers, with 205 alerts confirmed as fraud. The flagged population represents approximately **$19.5M** in transaction value and an average fraud-risk score of **72.9**.
+
+---
 
 ## Key Findings
 
@@ -296,16 +291,16 @@ Tableau + Streamlit Decision Support
 
 ## Tools & Technologies
 
-  Tool                   Use
-  ---------------------- --------------------------------------------------------
-  **Python / Pandas**    EDA, feature engineering, fraud analysis
-  **SQL**                Transaction, alert, pattern and customer-risk analysis
-  **Tableau**            Executive fraud dashboard
-  **Streamlit**          Interactive fraud investigation and decision support
-  **Jupyter Notebook**   Reproducible analytical workflow
-  **Git / GitHub**       Version control and portfolio presentation
+| Technology | Application in This Project |
+|---|---|
+| **Python / Pandas** | EDA, data validation, feature engineering, fraud-pattern detection, and customer-risk analysis |
+| **SQL** | Transaction analysis, alert investigation, suspicious-pattern analysis, and customer-risk segmentation |
+| **Tableau** | Executive fraud analytics dashboard, KPI monitoring, and risk visualization |
+| **Streamlit** | Interactive fraud investigation, portfolio filtering, and decision-support application |
+| **Jupyter Notebook** | Reproducible EDA, feature-engineering, validation, and analytical workflow |
+| **Git / GitHub** | Version control, project documentation, and portfolio presentation |
 
-------------------------------------------------------------------------
+---
 
 ## Repository Structure
 
